@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mi1421st
 - 👀 I’m interested in Mobile developing and Phyton
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Fluttr project
+- 💞️ I’m looking to collaborate on Flutter project
 - 📫 How to reach me michi_krist@yahoo.com
 
 <!---
