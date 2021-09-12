@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mi1421st
-- 👀 I’m interested in Mobile developing and Phyton
+- 👀 I’m interested in Mobile developing and Python
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter project
 - 📫 How to reach me mi.kristianus@gmail.com
